@@ -11,4 +11,5 @@ int main(){
     printf("a * b = %f\n", x);
     printf("a / b = %f\n", y);
     return 0;
+    printf("This line will not be executed.\n");
 }
